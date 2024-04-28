@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92A4EE19-78F0-4453-96EA-D66051A73B8B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E82DA4F-2BA1-4CD9-B3BC-8F8D19E91524"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-AppleFrameworks-IOS16/FrameworkDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3E82DA4F-2BA1-4CD9-B3BC-8F8D19E91524 - 9da95c8724afda6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_AppleFrameworks_IOS16.FrameworkDetailView.body.getter : some"
+                  moduleName = "SwiftUI-AppleFrameworks-IOS16"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Daniel7w7rSSD/programacion/switf/SwiftUI-AppleFrameworks-IOS16/SwiftUI-AppleFrameworks-IOS16/FrameworkDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "3E82DA4F-2BA1-4CD9-B3BC-8F8D19E91524 - a0bddbc0715fff3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI_AppleFrameworks_IOS16.FrameworkTitleView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Button&lt;SwiftUI_AppleFrameworks_IOS16.AFButton&gt;)&gt; in SwiftUI_AppleFrameworks_IOS16.FrameworkDetailView.body.getter : some"
+                  moduleName = "SwiftUI-AppleFrameworks-IOS16"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Daniel7w7rSSD/programacion/switf/SwiftUI-AppleFrameworks-IOS16/SwiftUI-AppleFrameworks-IOS16/FrameworkDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
